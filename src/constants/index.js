@@ -49,22 +49,20 @@ const services = [
   {
     title: "MERN Stack Developer",
     icon: web,
-    description: "Building scalable, high-performance web apps using MongoDB, Express, React, and Node.js.",
+   
   },
   {
     title: "Java & DSA Specialist",
     icon: backend,
-    description: "Solving complex problems with efficient algorithms and clean Java solutions.",
+   
   },
   {
     title: "Full-Stack Project Creator",
     icon: mobile,
-    description: "Designing and deploying end-to-end applications with responsive and user-friendly interfaces.",
   },
   {
     title: "Open Source Contributor",
     icon: creator,
-    description: "Collaborating on impactful projects and contributing to global developer communities.",
   },
 ];
 
