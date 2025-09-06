@@ -19,14 +19,9 @@ import {
   gssoc,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
-  carrent,
+  
   blog,
-  jobit,
-  tripguide,
+  
   threejs,
 } from "../assets";
 
